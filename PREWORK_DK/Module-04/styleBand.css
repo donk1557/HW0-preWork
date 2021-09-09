@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    color: red;
+    text-shadow: 2px 2px burlywood
+}
+table, th, td {
+    border: 3px solid black;
+}
+table {
+    width: 50%;
+}
+th {
+    height: 70px;
+    background-color: aquamarine
+}
+td {
+    text-align: center;
+    padding: 25px;
+}
+
+tr:nth-child(even) {background-color: rgb(226, 206, 214);}
+tr:nth-child(odd) {background-color: whitesmoke;}
+
+body {
+    background-color: goldenrod;
+}
+#csImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px groove chocolate;
+}
+#csText {
+    color: ghostwhite;
+    border: 5px dotted rgb(199, 89, 10);
+    font-size: 110%;
+    background-color: orangered;
+}
+#csLink {
+    border: 5px dotted chocolate;
+    background-color: darkgray;
+    font-size: 115%;
+    margin-left: 20px;
+    margin-right: 125px;
+}
+h2 {
+    color: white;
+    font-family: papyrus;
+    text-shadow: 2px 2px black;
+}

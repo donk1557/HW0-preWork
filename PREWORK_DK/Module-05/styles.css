@@ -1,0 +1,44 @@
+h1 {
+    text-align: center;
+}
+#B1 {
+    color: red;
+}
+#B2 {
+    color: blue;
+}
+#B3  {
+    color: green;
+}
+#C1 {
+    font-size: 200%;
+}
+#C2 {
+    font-size: 50%;
+}
+#D1 {
+    text-align: center;
+}
+#D2 {
+    font-weight: bold;
+}
+#D3 {
+    font-family: papyrus;
+}
+#D4 {
+    color: orange;
+    font-size: 200%;
+    font-weight: bold;
+}
+.styledFont {
+    background-color: tomato;
+    color: white;
+    border: 2px solid green;
+    margin: 30px;
+    padding: 30px;
+}
+ #styledImage {
+border: 10px groove rgb(126, 21, 103);
+margin: 5px;
+padding: 5px;
+}
